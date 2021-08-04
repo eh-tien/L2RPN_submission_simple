@@ -18,9 +18,9 @@ In order to clone the repository (recommended), you will need to install Git. Th
 ## 1. Downloading the repository
 ### 1.1 Cloning the repository (Recommended)
 In order to clone the repository, navigate to the top of the repository and click the green code button as seen below.
-(add photo, circle the button)
+![alt text](https://github.com/eh-tien/L2RPN_submission_simple/blob/master/images/repo%20download%20step%201.png)
 After this, click the save button as seen below.
-(add photo, mark button)
+![alt text](https://github.com/eh-tien/L2RPN_submission_simple/blob/master/images/repo%20download%20step%202(clone).png)
 This will copy the HTTPS link to the repository. You will need to paste this later.
 
 Now, open up the Terminal (if you're on Mac/Linux) or Command Prompt (if you're on Windows).
@@ -43,6 +43,6 @@ This should start a download and create the repository locally in your designate
 
 ### 1.2 Downloading the .zip file
 In order to clone the repository, navigate to the top of the repository and click the green code button as seen below. <br />
-(add photo, circle the button) <br />
+![alt text](https://github.com/eh-tien/L2RPN_submission_simple/blob/master/images/repo%20download%20step%201.png) <br />
 Then click the Download ZIP button, highlighted below. <br />
-(add photo, highlight the button) <br />
+![alt text](https://github.com/eh-tien/L2RPN_submission_simple/blob/master/images/repo%20download%20step%202(zip).png) <br />
