@@ -96,7 +96,7 @@ def evaluate_submission(model_dir,
         print(INFO_META)
 
     print(INFO_RUNNING)
-    output_submission_ = os.path.join("submission", "last_submission_results")
+    output_submission_ = os.path.join("../L2RPN_submission_simple/submission", "last_submission_results")
     if(agent_name != ""):
         output_submission_ = os.path.join("submission", agent_name+"_submission_results")
     
