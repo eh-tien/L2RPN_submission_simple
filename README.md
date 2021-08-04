@@ -57,3 +57,7 @@ Then click the Download ZIP button, highlighted below. <br />
 
 <img src="https://github.com/eh-tien/L2RPN_submission_simple/blob/master/images/repo%20download%20step%202(zip).png" alt="alt text" width="600" height="400"> <br />
 
+### **Please note that in order to avoid confusion down the line, the file should be saved as 
+# -------------------------------------------------------------------
+# 2. Launching Jupyter Notebook
+
