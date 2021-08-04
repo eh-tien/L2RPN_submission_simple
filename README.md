@@ -46,6 +46,9 @@ If you didn't get this it is not a problem, simply copy the above line of code i
 
 This should start a download and create the repository locally in your designated directory.
 
+# -------------------------------------------------------------------
+
+
 ### 1.2 Downloading the .zip file
 In order to clone the repository, navigate to the top of the repository and click the green code button as seen below. <br />
 
