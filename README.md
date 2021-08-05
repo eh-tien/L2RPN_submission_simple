@@ -105,7 +105,8 @@ In order to launch Jupyter Notebook, go to the Terminal / Command Prompt and ent
 * `cd /Users/USER/Desktop/L2RPN_submission_simple` (for Terminal) <br />
 * `cd \Users\USER\Desktop\L2RPN_submission_simple` (for Command Prompt) <br />
 or change directory to wherever your designated directory is located. <br /> 
-<br />
+
+
 Then run the following: <br />
 `jupyter notebook` <br />
 If this does not work, enter: <br />
