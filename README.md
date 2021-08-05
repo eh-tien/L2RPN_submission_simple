@@ -62,7 +62,7 @@ This will start the updating process and you will have the latest version of the
 
 
 ### 1.2 Downloading the .zip file
-In order to clone the repository, navigate to the top of the repository and click the green code button as seen below. <br />
+In order to download the .zip of the repository, navigate to the top of the repository and click the green code button as seen below. <br />
 
 <img src="https://github.com/eh-tien/L2RPN_submission_simple/blob/master/images/repo%20download%20step%201.png" alt="alt text" width="1000" height="600"> <br />
 Then click the Download ZIP button, highlighted below. <br />
@@ -96,6 +96,8 @@ and will unzip to: <br />
 
 The code will still run, however where things are saved to will not be intuitively obvious and as such will lead to unnecessary confusion. 
 <br />
+
+**NOTE:** On some machines, the above steps may not be sufficient. A situation could arise where the unzipped folder contains an internal folder with the same name as the parent. For example, the folder **L2RPN_submission_simple-master** will contain a folder of the same name. The internal folder needs to be taken out of the parent folder and placed either in the same directory (E.g Downloads) or moved to the Desktop or anywhere else. It just needs to be moved from the parent folder. After this, the parent folder can be deleted and you can proceed as though you had just unzipped the initial file.
 
 This is why it is recommended to clone the repository.
 # -------------------------------------------------------------------
