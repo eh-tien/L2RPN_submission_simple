@@ -137,7 +137,17 @@ A. Go to this URL: https://competitions.codalab.org/accounts/signup/?next=/ <br 
 B. Create a CodaLab account if you have not done so already.
 ### -------------------------------------------------------------------
 1. Go to this URL: https://competitions.codalab.org/competitions/33121#participate-submit_results 
-2. Click the Submit button **insert photo**
-3. Navigate to the location of your .zip file **insert photo**
-4. Click open **insert photo**
+2. Click the Submit button: <br />
+<br />
+<img src="https://github.com/eh-tien/L2RPN_submission_simple/blob/master/images/submit%20button.png" alt="alt text" width="1000" height="400"> <br />
+<br />
+3. Navigate to the location of your .zip file:
+<br />
+<img src="https://github.com/eh-tien/L2RPN_submission_simple/blob/master/images/step%201%20submit.png" alt="alt text" width="1000" height="400"> <br />
+<br />
+ 
+4. Click open: 
+<br />
+<img src="https://github.com/eh-tien/L2RPN_submission_simple/blob/master/images/step%202%20submit%20copy.png" alt="alt text" width="1000" height="400"> <br />
+<br />
 5. Now you're done! The model will be scored and the result will be made available to you on the public leaderboard in a few minutes. Good luck!
