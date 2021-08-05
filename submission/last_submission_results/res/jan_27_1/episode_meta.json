@@ -1,0 +1,11 @@
+{
+    "agent_seed": 1295474092,
+    "backend_type": "LightSimBackend_input_data_local",
+    "chronics_max_timestep": "2016",
+    "chronics_path": "/Users/Conor/Desktop/git_clones/L2RPN_submission_simple/L2RPN_icaps2021_starting_kit/input_data_local/chronics/jan_27_1",
+    "cumulative_reward": 130099.953125,
+    "env_seed": 1608921502,
+    "env_type": "Environment_input_data_local",
+    "grid_path": "/Users/Conor/Desktop/git_clones/L2RPN_submission_simple/L2RPN_icaps2021_starting_kit/input_data_local/grid.json",
+    "nb_timestep_played": 217
+}
