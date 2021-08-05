@@ -89,7 +89,7 @@ If this does not work, enter: <br />
 You should be presented with the following page: <br /> 
 **NOTE: The page you are presented with may look slightly different due to updates, however this is nothing to worry about.** <br />
 <br />
-**add photo here**
+<img src="https://github.com/eh-tien/L2RPN_submission_simple/blob/master/images/jupyter%20landing%20screen.png" alt="alt text" width="1000" height="400"> <br />
 <br />
 After this, click on **start-to-end-notebook.ipynb** and you will be brought to the main notebook. <br />
 <br />
