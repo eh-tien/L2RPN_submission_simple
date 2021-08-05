@@ -93,6 +93,7 @@ You should be presented with the following page: <br />
 <br />
 After this, click on **start-to-end-notebook.ipynb** and you will be brought to the main notebook. <br />
 <br />
-**add photo here**
+
+<img src="https://github.com/eh-tien/L2RPN_submission_simple/blob/master/images/notebook.png" alt="alt text" width="1000" height="600"> <br />
 <br />
 Now you are in the main notebook and there are more instructions on how to proceed there.
