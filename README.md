@@ -69,15 +69,15 @@ Then click the Download ZIP button, highlighted below. <br />
 
 <img src="https://github.com/eh-tien/L2RPN_submission_simple/blob/master/images/repo%20download%20step%202(zip).png" alt="alt text" width="600" height="400"> <br />
 
-**Please note that in order to avoid errors down the line, the file should be saved as: <br /> 
+**Please note that in order to avoid errors down the line, the file should be saved as:** <br /> 
 <br />
-L2RPN_submission_simple.zip <br /> 
+**L2RPN_submission_simple.zip** <br /> 
 <br />
 and unzipped to be <br />
 <br />
-L2RPN_submission_simple <br />
+**L2RPN_submission_simple** <br />
 <br />
-This is why it is recommended to clone the repository.** <br />
+This is why it is recommended to clone the repository. <br />
 # -------------------------------------------------------------------
 # 2. Launching Jupyter Notebook
 In order to launch Jupyter Notebook, go to the Terminal / Command Prompt and enter the following: <br />
