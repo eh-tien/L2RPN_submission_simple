@@ -72,7 +72,7 @@ Then click the Download ZIP button, highlighted below. <br />
 If you decide to download the .zip file, it will be renamed to: <br />
 <br />
 **L2RPN_submission_simple-master.zip** <br />
-ADD PHOTO HERE
+https://github.com/eh-tien/L2RPN_submission_simple/blob/master/images/zip%20before.png
 <br />
 and will unzip to: <br />
 <br />
