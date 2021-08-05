@@ -72,12 +72,13 @@ Then click the Download ZIP button, highlighted below. <br />
 If you decide to download the .zip file, it will be renamed to: <br />
 <br />
 **L2RPN_submission_simple-master.zip** <br />
-https://github.com/eh-tien/L2RPN_submission_simple/blob/master/images/zip%20before.png
+<img src="https://github.com/eh-tien/L2RPN_submission_simple/blob/master/images/zip%20before.png" alt="alt text" width="200" height="200"> <br />
 <br />
 and will unzip to: <br />
 <br />
 **L2RPN_submission_simple-master** <br />
-https://github.com/eh-tien/L2RPN_submission_simple/blob/master/images/folder%20before.png
+
+<img src="https://github.com/eh-tien/L2RPN_submission_simple/blob/master/images/folder%20before.png" alt="alt text" width="200" height="200"> <br />
 <br />
 <br />
 **PLEASE DO THE FOLLOWING:** <br /> 
@@ -85,10 +86,12 @@ https://github.com/eh-tien/L2RPN_submission_simple/blob/master/images/folder%20b
 * Rename the unzipped folder to **L2RPN_submission_simple.** <br />
 
  Before: <br />
-https://github.com/eh-tien/L2RPN_submission_simple/blob/master/images/folder%20before.png
+
+<img src="https://github.com/eh-tien/L2RPN_submission_simple/blob/master/images/folder%20before.png" alt="alt text" width="200" height="200"> <br />
 
  After: <br />
- ADD PHOTO HERE
+ 
+ <img src="https://github.com/eh-tien/L2RPN_submission_simple/blob/master/images/folder%20after.png" alt="alt text" width="200" height="200"> <br />
 
 
 The code will still run, however where things are saved to will not be intuitively obvious and as such will lead to unnecessary confusion. 
