@@ -80,4 +80,19 @@ L2RPN_submission_simple <br />
 This is why it is recommended to clone the repository.** <br />
 # -------------------------------------------------------------------
 # 2. Launching Jupyter Notebook
-
+In order to launch Jupyter Notebook, go to the Terminal / Command Prompt and enter the following: <br />
+`jupyter notebook` <br />
+If this does not work, enter: <br />
+`python -m notebook` or <br />
+`python3 -m notebook` <br />.
+<br />
+You should be presented with the following page: <br /> 
+**NOTE: The page you are presented with may look slightly different due to updates, however this is nothing to worry about.** <br />
+<br />
+**add photo here**
+<br />
+After this, click on **start-to-end-notebook.ipynb** and you will be brought to the main notebook. <br />
+<br />
+**add photo here**
+<br />
+Now you are in the main notebook and there are more instructions on how to proceed there.
