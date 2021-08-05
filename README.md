@@ -46,6 +46,18 @@ If you didn't get this it is not a problem, simply copy the above line of code i
 
 This should start a download and create the repository locally in your designated directory.
 
+#### 1.1.1 Updating the repository
+In order to have the latest version of the repository:
+* Change directory to wherever the clone is. For example, if the clone was located on your desktop, you would enter the following command into Terminal or Command Prompt respectively: <br />
+`cd /Users/USER/Desktop/L2RPN_submission_simple` <br />
+`cd \Users\USER\Desktop\L2RPN_submission_simple` <br />
+
+* Now that you're in the correct directory, enter the following command in Terminal / Command Prompt: <br />
+`git pull` <br/>
+
+This will start the updating process and you will have the latest version of the repository.
+ 
+
 # -------------------------------------------------------------------
 
 
