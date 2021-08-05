@@ -81,6 +81,8 @@ This is why it is recommended to clone the repository. <br />
 # -------------------------------------------------------------------
 # 2. Launching Jupyter Notebook
 In order to launch Jupyter Notebook, go to the Terminal / Command Prompt and enter the following: <br />
+`cd /Users/USER/Desktop/L2RPN_submission_simple` or wherever your designated directory is located. <br /> 
+Then run the following:
 `jupyter notebook` <br />
 If this does not work, enter: <br />
 `python -m notebook` or <br />
