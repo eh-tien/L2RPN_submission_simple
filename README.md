@@ -126,3 +126,16 @@ After this, click on **start-to-end-notebook.ipynb** and you will be brought to 
 <img src="https://github.com/eh-tien/L2RPN_submission_simple/blob/master/images/notebook.png" alt="alt text" width="1000" height="600"> <br />
 <br />
 Now you are in the main notebook and there are more instructions on how to proceed there.
+
+# -------------------------------------------------------------------
+# 3. Submitting to CodaLab
+Now that you have successfully created a working agent, the process for submitting to CodaLab is relatively straight forward. 
+After the model was tested in the Jupyter Notebook, a .zip file containing the model was created in the **L2RPN_submission_simple** folder.
+To submit to CodaLab do the following:
+1. Go to this URL: https://competitions.codalab.org/accounts/signup/?next=/
+2. Create a CodaLab account if you have not done so already.
+3. Go to this URL: https://competitions.codalab.org/competitions/33121#participate-submit_results <br />
+4. Click the Submit button **insert photo**
+5. Navigate to the location of your .zip file **insert photo**
+6. Click open **insert photo**
+7. Now you're done! The model will be scored and the result will be made available to you on the public leaderboard in a few minutes. Good luck!
