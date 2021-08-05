@@ -77,7 +77,7 @@ https://github.com/eh-tien/L2RPN_submission_simple/blob/master/images/zip%20befo
 and will unzip to: <br />
 <br />
 **L2RPN_submission_simple-master** <br />
-ADD PHOTO HERE.
+https://github.com/eh-tien/L2RPN_submission_simple/blob/master/images/folder%20before.png
 <br />
 <br />
 **PLEASE DO THE FOLLOWING:** <br /> 
@@ -85,7 +85,7 @@ ADD PHOTO HERE.
 * Rename the unzipped folder to **L2RPN_submission_simple.** <br />
 
  Before: <br />
- ADD PHOTO HERE
+https://github.com/eh-tien/L2RPN_submission_simple/blob/master/images/folder%20before.png
 
  After: <br />
  ADD PHOTO HERE
