@@ -1,4 +1,0 @@
-score: -56.250000
-duration: 0.516827
-total_operation: 0.000000
-total_attention: -187.500000
